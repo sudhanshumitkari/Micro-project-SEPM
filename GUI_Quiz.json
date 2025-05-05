@@ -1,0 +1,33 @@
+{
+
+   "questions" : [
+      "1) What is the correct syntax to output Hello, World! in Python? Which of the following data types is not mutable in Python?",
+      "2) What does the len() function do in Python?",  
+      "3) Which keyword is used to define a function in Python?",
+      "4) How do you create a variable that references a list of numbers from 1 to 5?",
+      "5) Which method is used to add an element at the end of a list in Python?",
+      "6) What will the following code output? python Copy x = 5 y = 3, print(X % Y)",
+      "7) What is the correct way to handle exceptions in Python?",
+      "8) Which function is used to get the type of an object in Python?"
+   ],
+
+
+
+
+   "options":[
+      ["List","Dictionary","Tuple","Set"],
+      ["Returns the length of an object","Converts a string to lowercase","Returns the first character of a string","Checks if a number is even or odd"],
+      ["func","def","function","method"],
+      ["numbers = [1, 2, 3, 4, 5]","numbers = (1, 2, 3, 4, 5)","numbers = {1, 2, 3, 4, 5}","numbers = range(1, 5)"],
+      ["append()","insert()","add()","extend()"],
+      ["1","2","5","15"],
+      ["catch","except","try-except","throw"],
+      ["object_type()","get_type()","type()","is_type()"]
+
+   ],
+
+   "ans": [3,1,2,1,1,1,2,3]
+      
+    
+      
+}
